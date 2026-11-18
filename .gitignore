@@ -1,0 +1,10 @@
+.venv/
+.venv_backup/
+.venv311/
+venv/
+venv_old/
+venv311/
+__pycache__/
+*.pyc
+.env
+git add .gitignore constraints.txt

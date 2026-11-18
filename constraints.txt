@@ -1,3 +1,8 @@
 numpy==1.26.4
 protobuf==4.25.8
+<<<<<<< HEAD
 ml-dtypes==0.3.2
+=======
+ml-dtypes==0.3.2
+>>>>>>> 51b9ef9c (Initial project upload)
+git add .gitignore constraints.txt
